@@ -3,6 +3,7 @@
 
 ## 使用方法
 python spider.py http://example.com
+
 python spider.py -f urls.txt
 
 需要手动登录
