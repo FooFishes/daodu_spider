@@ -9,7 +9,8 @@ python spider.py -f urls.txt
 需要手动登录
 
 txt 中文本一行一个网址
-# 为注释
+
+\# 为注释
 
 ```
 pip install requests playwright
